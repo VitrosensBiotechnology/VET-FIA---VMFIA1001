@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AllSampleTypes">
+        <item>Serum/Plasma</item>
+        <item>Tam Kan</item>
+        <item>İdrar</item>
+        <item>Gaita</item>
+        <item>QC</item>
+        <item>Periferik Kan</item>
+        <item>Saç Kılı</item>
+        <item>Bacak Kılı</item>
+        <item>Koltukaltı Kılı</item>
+        <item>Sekresyon</item>
+        <item>Saç</item>
+        <item>Granül</item>
+        <item>Besi ve ham madde</item>
+        <item>Tahıl ve yağ</item>
+        <item>Buğday ve Un</item>
+        <item>Çiğ Süt</item>
+        <item>Süt Ürünü</item>
+        <item>Yoğurt</item>
+        <item>Şarküteri</item>
+        <item>Kuruluş</item>
+        <item>Su Ürünleri</item>
+        <item>Hayvancılık</item>
+        <item>Meyve ve Sebze</item>
+        <item>Çin Bitkisel İlaçları</item>
+        <item>Su Kalitesi</item>
+        <item>Soya Ürünleri</item>
+        <item>Bitkisel Yağlar</item>
+        <item>Bal</item>
+        <item>Tütün</item>
+        <item>Nazofarengeal swab</item>
+        <item>UTM/VTM</item>
+        <item>Tükürük</item>
+        <item>Diğer</item>
+        <item>Salya</item>
+        <item>Serum</item>
+        <item>Atık Su</item>
+        <item>Plasma</item>
+        <item>Burun Swab</item>
+        <item>Orofaringeal Swab</item>
+    </string-array>
+    <string-array name="SampleTypeEasy11">
+        <item>Burun Swab</item>
+        <item>Nasofarengeal Swab</item>
+        <item>Orofaringeal Swab</item>
+        <item>Tam Kan</item>
+        <item>QC</item>
+    </string-array>
+    <string-array name="SampleTypeHome">
+        <item>Serum</item>
+        <item>Plasma</item>
+        <item>Tam Kan</item>
+        <item>Nasofarengeal Swab</item>
+        <item>QC</item>
+    </string-array>
+    <string-array name="SampleTypeNcov">
+        <item>Nasofarengeal Swab</item>
+        <item>UTM/VTM</item>
+        <item>Serum/Plasma</item>
+        <item>Tam Kan</item>
+        <item>QC</item>
+    </string-array>
+    <string-array name="SampleTypePublic">
+        <item>Serum/Plasma</item>
+        <item>Tam Kan</item>
+        <item>İdrar</item>
+        <item>Gaita</item>
+        <item>QC</item>
+    </string-array>
+    <string-array name="djSampleType">
+        <item>Hair</item>
+        <item>Shank-feathering</item>
+        <item>Koltukaltı Kılı</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="Cinsiyet">
+        <item>-</item>
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="Durum">
+        <item>Normal</item>
+        <item>Abnormal</item>
+    </string-array>
+</resources>
