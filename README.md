@@ -6,3 +6,4 @@ Verisyon yazısı kaldırıldı.
 logo değiştirildi
 test parametrelerinde düzenlemeler yapıldı
 fiş çıktısında düzenlemeler yapıldı.
+portekizce printer türkçe printer a çevrildi
