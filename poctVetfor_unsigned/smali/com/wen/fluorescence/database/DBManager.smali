@@ -6175,7 +6175,7 @@
 
     const-string v9, "-"
 
-    const-string v10, "0"
+    const-string v10, "1"
 
     const-string v11, "0"
 
@@ -6426,7 +6426,22 @@
     invoke-virtual/range {v0 .. v6}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
 
     .line 107
-    const-string v1, "E2"
+    const-string v1, "fPL"
+
+    const-string v2, "-"
+
+    const-string v3, "0"
+
+    const-string v4, "0"
+
+    const-string v5, "3.5"
+
+    const-string v6, "ng/mL"
+
+    invoke-virtual/range {v0 .. v6}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+
+    .line 108
+    const-string v1, "fSAA"
 
     const-string v2, "-"
 
@@ -6434,13 +6449,44 @@
 
     const-string v4, "0"
 
-    const-string v5, "500"
+    const-string v5, "5.0"
 
-    const-string v6, "pg/mL"
+    const-string v6, "ug/mL"
+
+    invoke-virtual/range {v0 .. v6}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+
+    .line 109
+    const-string v1, "fTnI"
+
+    const-string v2, "-"
+
+    const-string v3, "1"
+
+    const-string v4, "0"
+
+    const-string v5, "0.18"
+
+    const-string v6, "ng/mL"
 
     invoke-virtual/range {v0 .. v6}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
 
     .line 110
+    const-string v8, "cTSH"
+
+    const-string v9, "-"
+
+    const-string v10, "1"
+
+    const-string v11, "0"
+
+    const-string v12, "0.5"
+
+    const-string v13, "ng/mL"
+
+    invoke-virtual/range {v7 .. v13}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+
+
+    .line 111
     return-void
 .end method
 
@@ -15679,19 +15725,19 @@
     invoke-virtual/range {v0 .. v6}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
 
     .line 136
-    const-string v8, "FT4"
+    const-string v1, "FT4"
 
-    const-string v9, "-"
+    const-string v2, "-"
 
-    const-string v10, "1"
+    const-string v3, "1"
 
-    const-string v11, "Canine: 0.6-3.0ng/dL"
+    const-string v4, "Canine: 0.6-3.0ng/dL"
 
-    const-string v12, " Feline: 0.7-2.6"
+    const-string v5, " Feline: 0.7-2.6"
 
-    const-string v13, "ng/dL"
+    const-string v6, "ng/dL"
 
-    invoke-virtual/range {v7 .. v13}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    invoke-virtual/range {v0 .. v6}, Lcom/wen/fluorescence/database/DBManager;->addItemParas(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
 
     .line 137
     const-string v1, "PSA"
